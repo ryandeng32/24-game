@@ -4,6 +4,8 @@
 # there is still an error if the number entered is too big
 # and some modification is needed to make this more user friendly
 
+#hihihi
+
 # the number and operation used in a list 
 operation = ["+", "-", "*", "/"]
 num = ["a", "b", "c", "d"]
